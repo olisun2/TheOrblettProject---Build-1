@@ -1,0 +1,14 @@
+C:\Users\pin2f\OneDrive\Visual Studio\TheOrblettProject\TheOrblettProject\bin\Debug\net10.0\TheOrblettProject.exe
+C:\Users\pin2f\OneDrive\Visual Studio\TheOrblettProject\TheOrblettProject\bin\Debug\net10.0\TheOrblettProject.deps.json
+C:\Users\pin2f\OneDrive\Visual Studio\TheOrblettProject\TheOrblettProject\bin\Debug\net10.0\TheOrblettProject.runtimeconfig.json
+C:\Users\pin2f\OneDrive\Visual Studio\TheOrblettProject\TheOrblettProject\bin\Debug\net10.0\TheOrblettProject.dll
+C:\Users\pin2f\OneDrive\Visual Studio\TheOrblettProject\TheOrblettProject\bin\Debug\net10.0\TheOrblettProject.pdb
+C:\Users\pin2f\OneDrive\Visual Studio\TheOrblettProject\TheOrblettProject\obj\Debug\net10.0\TheOrblettProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pin2f\OneDrive\Visual Studio\TheOrblettProject\TheOrblettProject\obj\Debug\net10.0\TheOrblettProject.AssemblyInfoInputs.cache
+C:\Users\pin2f\OneDrive\Visual Studio\TheOrblettProject\TheOrblettProject\obj\Debug\net10.0\TheOrblettProject.AssemblyInfo.cs
+C:\Users\pin2f\OneDrive\Visual Studio\TheOrblettProject\TheOrblettProject\obj\Debug\net10.0\TheOrblettProject.csproj.CoreCompileInputs.cache
+C:\Users\pin2f\OneDrive\Visual Studio\TheOrblettProject\TheOrblettProject\obj\Debug\net10.0\TheOrblettProject.dll
+C:\Users\pin2f\OneDrive\Visual Studio\TheOrblettProject\TheOrblettProject\obj\Debug\net10.0\refint\TheOrblettProject.dll
+C:\Users\pin2f\OneDrive\Visual Studio\TheOrblettProject\TheOrblettProject\obj\Debug\net10.0\TheOrblettProject.pdb
+C:\Users\pin2f\OneDrive\Visual Studio\TheOrblettProject\TheOrblettProject\obj\Debug\net10.0\TheOrblettProject.genruntimeconfig.cache
+C:\Users\pin2f\OneDrive\Visual Studio\TheOrblettProject\TheOrblettProject\obj\Debug\net10.0\ref\TheOrblettProject.dll
